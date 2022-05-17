@@ -21,6 +21,3 @@ class TestCalc:
 # def test_multipyl_calculation_failed(self):
 #     assert self.calc.multiply(self, 2, 2) == 5
 # Add to Git
-
-
-
